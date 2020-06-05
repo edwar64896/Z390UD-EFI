@@ -654,7 +654,7 @@
 				<key>SystemAudioVolume</key>
 				<data>Rg==</data>
 				<key>boot-args</key>
-				<string>keepsyms=1 dart=0 debug=0x100 alcid=1 wegtree=1 agdpmod=pikera</string>
+				<string>keepsyms=1 dart=0 debug=0x100 alcid=7 wegtree=1 agdpmod=pikera</string>
 				<key>csr-active-config</key>
 				<data>AAAAAA==</data>
 				<key>prev-lang:kbd</key>
