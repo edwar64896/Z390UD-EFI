@@ -120,6 +120,18 @@
 		<data>
 		lX85x6iwdHcVQckPL90OzC19R1OM2DXPcBigDvRr7Ww=
 		</data>
+		<key>Kexts\USBInjectAll.kext\Contents\Info.plist</key>
+		<data>
+		jAxBLYnRGg4687W7y7dgCdve8IHkWjZC3q/f//gnEdI=
+		</data>
+		<key>Kexts\USBInjectAll.kext\Contents\MacOS\USBInjectAll</key>
+		<data>
+		1m0OmGwyvm9m+6Sze/IF1In3xuI9JUELE9SS7d3cJmo=
+		</data>
+		<key>Kexts\USBInjectAll.kext\Contents\_CodeSignature\CodeResources</key>
+		<data>
+		ZobeEKKKL+EbNsu4bcusyCfPxOoRa02r8YReWu5inps=
+		</data>
 		<key>Kexts\VirtualSMC.kext\Contents\Info.plist</key>
 		<data>
 		6RxlUjckr+5n+IwiexTzZV0U2CrtIyJamVVTQa3sNTI=
@@ -142,7 +154,7 @@
 		</data>
 		<key>Keys\privatekey.cer</key>
 		<data>
-		uAUxhkPO1UHtFkYYorn/0AWS3WCgAVfsDDyyOXQxwKg=
+		teuli4tLWnfUWVwwQyxoxYOsp+AM14GK0oMWrRYOwEk=
 		</data>
 		<key>Resources\Audio\AXEFIAudio_Beep.wav</key>
 		<data>
@@ -1774,7 +1786,7 @@
 		</data>
 		<key>config.plist</key>
 		<data>
-		hZOS8S75dWzFbFWT7OPEssQPcxd3Dr6uF44M+iCOemw=
+		tax2B4jXyut9+zI+XAe5pgxqeMk5J56dzqnpOjB+EJs=
 		</data>
 	</dict>
 	<key>Version</key>
